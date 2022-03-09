@@ -1,10 +1,9 @@
+import PhotoCard from "./components/PhotoCard";
 
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <PhotoCard/>
   );
 }
 
